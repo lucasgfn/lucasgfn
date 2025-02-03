@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 --> 
-- Trabalhando no Projeto de Pesquisa Automática de Algoritmos na UDESC
+- Trabalhando no Projeto de Pesquisa Automática de Algoritmos 
 - Graduando em Engenharia de Software na UDESC
 - Formado em Técnico em Informática no IFPR
 
