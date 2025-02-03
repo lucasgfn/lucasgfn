@@ -5,12 +5,10 @@
 
 Here are some ideas to get you started:
 --> 
-- 🌎 Santa Catarina, Brasil
-- 🔭 Trabalho Atual: Projeto de Pesquisa Automático de Algoritmos - UDESC
-- 💻 Graduando em Engenharia de Software - UDESC
-- 🧑‍🎓 Técnico em Informática - IFPR
-  
-  
+- Trabalhando no Projeto de Pesquisa Automática de Algoritmos na UDESC
+- Graduando em Engenharia de Software na UDESC
+- Formado em Técnico em Informática no IFPR
+
 
 <br>
 <div style="display: flex; justify-content: center;">
