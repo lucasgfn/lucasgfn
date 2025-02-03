@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 
 <br>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgfn&show_icons=true&theme=radical" alt="Lucas Falcade's GitHub stats" style="margin-right: 20px;" width="410" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfn&layout=compact&theme=radical" alt="Linguagens mais usadas"  width="313" />
 </div>
