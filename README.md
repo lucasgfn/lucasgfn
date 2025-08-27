@@ -6,11 +6,15 @@
 • Graduando em Engenharia de Software na UDESC <br>
 • Formado em Técnico em Informática no IFPR <br>
 
-<!-- Meme à direita -->
-<img align="right" src="https://2.bp.blogspot.com/-iMIxfkTwCj0/VEkiDqZaXDI/AAAAAAAAIlw/ADUeOlsh3ig/s1600/03.gif" width="250" alt="debugging meme" />
+## Dados do Github
 
-<!-- Card à esquerda -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfn&layout=compact&theme=radical" alt="Linguagens mais usadas" width="360" />
+<div align="center">
+
+<!-- Card centralizado -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfn&layout=compact&title_color=1E90FF&text_color=FFFFFF&icon_color=1E90FF&bg_color=0D1117" 
+ alt="Linguagens mais usadas" width="360" />
+
+</div>
 
 <br clear="both"/>
 
