@@ -1,10 +1,9 @@
 
 ## UM POUCO SOBRE MIM 🪼
 
-
-• Trabalhando no Projeto de Pesquisa Automática de Algoritmos <br>
 • Graduando em Engenharia de Software na UDESC <br>
 • Formado em Técnico em Informática no IFPR <br>
+
 
 ## Dados do Github
 
@@ -33,7 +32,7 @@ Adoraria trocar uma ideia! Se você tem algo interessante para compartilhar, alg
 
 </div>
 
-## Tecnologias também estudadas:
+## Outras Tecnologias:
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 24px;" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 24px;" alt="html5 logo" />
