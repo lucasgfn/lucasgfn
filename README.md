@@ -13,6 +13,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfn&layout=compact&title_color=1E90FF&text_color=FFFFFF&icon_color=1E90FF&bg_color=0D1117" 
  alt="Linguagens mais usadas" width="360" />
 
+ <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&count_private=true&show_icons=true&theme=default&include_all_commits=true) --> 
+
+
 </div>
 
 <br clear="both"/>
