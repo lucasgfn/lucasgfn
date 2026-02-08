@@ -8,8 +8,8 @@
 ## Dados do Github
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasgfn&layout=compact&title_color=1E90FF&text_color=dark&icon_color=1E90FF&bg_color=FFFFF" width="400" />
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasgfn&show_icons=true&theme=github_dark" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasgfn&layout=compact&title_color=1E90FF&text_color=dark&icon_color=1E90FF&bg_color=FFFFF" width="210" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasgfn&show_icons=true&theme=github_dark" width="257" />
 </div>
 
 <br clear="both"/>
