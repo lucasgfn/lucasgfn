@@ -9,8 +9,8 @@
 
 <h4>Um pouco sobre mim: </h4> 
 
- -  Graduando em Engenharia de Software <br>
- -  Técnico em Informática <br>
+ -  Graduando em Engenharia de Software (UDESC) <br>
+ -  Técnico em Informática (IFPR) <br>
 
 
 ## Dados do Github
