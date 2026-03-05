@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://readme-workflows.github.io/Readme-Icons/assets/images/previews/gifs.gif" width="420"/>
+</p>
 
-## Sobre
-
-• Graduando em Engenharia de Software na UDESC <br>
-• Técnico em Informática no IFPR <br>
+<div align="center">
+  <h2>Olá eu sou o Lucas</h2>
+  
+</div>
+<h4>Um pouco sobre mim: </h4> 
+ -  Graduando em Engenharia de Software <br>
+ -  Técnico em Informática <br>
 
 
 ## Dados do Github
