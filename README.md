@@ -6,7 +6,9 @@
   <h2>Olá eu sou o Lucas</h2>
   
 </div>
+
 <h4>Um pouco sobre mim: </h4> 
+
  -  Graduando em Engenharia de Software <br>
  -  Técnico em Informática <br>
 
