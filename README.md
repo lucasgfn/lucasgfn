@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-workflows.github.io/Readme-Icons/assets/images/previews/gifs.gif" width="420"/>
+  <img src="https://readme-workflows.github.io/Readme-Icons/assets/images/previews/gifs.gif" width="300"/>
 </p>
 
 <div align="center">
